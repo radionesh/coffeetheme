@@ -1,4 +1,4 @@
 development:
+  store: https://coffee-brand2.myshopify.com
   password: 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
-  theme_id: "132081025248"
-  store: coffee-brand2.myshopify.com
+  theme_id: 132083450080
